@@ -15,6 +15,7 @@ This module provides a Flask application that exposes an API endpoint for search
 
 ```sh
 $ cd word-search-api
+```
 
 3. Create a virtual environment:
 
